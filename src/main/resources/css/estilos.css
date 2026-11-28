@@ -21,3 +21,18 @@
     -fx-text-fill: #81A9A3;
     -fx-font-size: 14px;
 }
+.menu-navegacion {
+    -fx-background-color: #2e7370;
+}
+.boton-menu {
+    -fx-background-color: #f7f1d7;
+    -fx-text-fill: #1d6170;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 8px;
+    -fx-cursor: hand;
+}
+.boton-menu:pressed {
+    -fx-background-color: #81A9A3;
+    -fx-text-fill: #073638;
+}
