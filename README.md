@@ -1,3 +1,3 @@
 # SedeR-v.1.0
 
-#ola
+Bienvenido a SedeR-V.1.0 =)
