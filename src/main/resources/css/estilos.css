@@ -1,3 +1,23 @@
--fx-background-color: linear-gradient(
-to bottom right, #0f172a, #334155
-);
+.fondo {
+    -fx-background-color: #F5EBD7;
+    -fx-background-image: url("../imagenes/fondo.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+.encabezado {
+    -fx-background-color: #073638;
+    -fx-border-color: #81A9A3;
+    -fx-border-width: 0 0 2 0;
+}
+
+.titulo {
+    -fx-text-fill: #F5EBD7;
+    -fx-font-size: 26px;
+    -fx-font-weight: bold;
+}
+
+.subtitulo {
+    -fx-text-fill: #81A9A3;
+    -fx-font-size: 14px;
+}
